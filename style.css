@@ -1,0 +1,96 @@
+body{
+  height: 1486px;
+
+}
+.header{
+
+  
+
+}
+f1{
+    font-size: 50px;
+}
+f2{
+    font-size: 40px;
+}
+
+
+.haf-wedth{
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 40%;
+     float: left;
+
+}
+
+.link-button {
+    padding: 10px 25px;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    color: white;
+    font: bold;
+    text-decoration: none;
+    border-radius: 12px;
+    
+}
+.haf-wedth img {
+    width: 73%;
+    float: right;
+    padding: 20px;
+}
+.haf-wedth h1{
+    font-size: 42px;
+    
+        }
+    
+.fron-color2{
+
+color: rgb(255, 153, 0);
+font-family: monospace;
+}
+
+.broderstyle{
+ height: 270px;
+ width: 40%;
+ box-shadow: 10px 10px 40px gray;
+ border-radius: 5px;
+ background-color: white;
+}
+
+.broderstyle p {
+ padding-right: 10px;
+ color: brown;
+}
+
+#border-unice{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#border_baby_area{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    margin-top: -269px;
+}
+.footersectionn {
+    height: 88px;
+    width: 100%;
+    background-color: rgb(66, 65, 65);
+    float: left;
+    margin-top: 100px;
+    border-radius: 11px;
+
+}
+
+.footersectionn li {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    margin: 8px;
+    font-size: 17px;
+}
+.footersectionn p {
+    color: rgb(255, 255, 255);
+    text-align: right;
+    margin-top: -29px;
+    padding: 5px;
+}
